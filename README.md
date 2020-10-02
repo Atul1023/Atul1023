@@ -1,8 +1,9 @@
 ### Hi there, I'm Atul Raj 👋
-
-## I'm an IT student and a lazy developer.
+#### A student and a lazy developer.
+---
 
 - 🔭 I’m currently working on [my website](https://atulraj.net)!
+- 🌱 Trying to improve my skills everyday.
 - 🥅 2020 Goals: Contribute more to Open Source projects and build more projects.
 - ⚡ Hobbies: I love making android apps using flutter.
 
@@ -35,6 +36,7 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
 <br />
+---
 
 ### Github Stats
 
