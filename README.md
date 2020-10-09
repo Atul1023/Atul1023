@@ -45,7 +45,7 @@
 
 ---
 
-<img alt="Atul Raj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atul1023&show_icons=true&count_private=true" />
+<img alt="Atul Raj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Atul1023&theme=chartreuse-dark&show_icons=true&count_private=true" />
 
 [website]: https://atulraj.net
 [facebook]: https://fb.me/atul.ar1023
