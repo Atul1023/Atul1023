@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [my website](https://atulraj.net)!
 - 🌱 Trying to improve my skills everyday.
 - 🥅 2020 Goals: Contribute more to Open Source projects and build more projects.
-- ✨ Favorite Tech: Flutter
+- ✨ Favourite Tech: Flutter
 - ✉️ Email: 07atul1023@gmail.com
 
 ### Connect with me:
