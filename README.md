@@ -13,7 +13,7 @@
 [<img align="left" alt="atulraj.net" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://www.facebook.com/atul.ar1023/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="https://twitter.com/07_atul_1023" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://www.linkedin.com/in/atul-r-b14bb6167/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/atul1023/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="https://www.instagram.com/ar_atul07/?hl=en" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -52,4 +52,4 @@
 [facebook]: https://fb.me/atul.ar1023
 [twitter]: https://twitter.com/07_atul_1023
 [instagram]: https://instagram.com/ar_atul07
-[linkedin]: https://linkedin.com/in/in/atul-r-b14bb6167
+[linkedin]: https://linkedin.com/in/atul1023
