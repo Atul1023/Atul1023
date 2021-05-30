@@ -2,7 +2,7 @@
 #### A student and a lazy developer.
 ---
 
-- 🔭 I’m currently working on [my website](https://atulraj.net)!
+- 🔭 I’m currently working on [my website](https://atul1023.github.io)!
 - 🌱 Trying to improve my skills everyday.
 - 🥅 2020 Goals: Contribute more to Open Source projects and build more projects.
 - ✨ Favourite Tech: Flutter
